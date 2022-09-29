@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 My name is Mike Jakuszeski.
-🌱 I’m currently learning learning vanilla JS and am working towards becoming a full stack developer!
 
-My twitter is @MikeJakusze
+I’m a Canadian software developer learning vanilla JS. On my journey to becoming a full stack developer!
+
+Follow my twitter @MikeJakusze for updates
 
 Stay tunned! 🤙
 
