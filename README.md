@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+My name is Mike Jakuszeski.
+🌱 I’m currently learning learning vanilla JS and am working towards becoming a full stack developer!
+
+My twitter is @MikeJakusze
+
+Stay tunned! 🤙
+
+MJ
+
 <!--
 **MikeJakuszewski/MikeJakuszewski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
