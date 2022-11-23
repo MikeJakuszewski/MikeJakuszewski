@@ -3,7 +3,7 @@
 
 <p> I am a full-stack software engineer who is proficient in HTML, CSS, Javascript, Node.js, MongoDB, and React. I work to create excellent, responsive websites that suit the wants and needs of my clients and am eager to solve problems through innovative solutions and collaboration. </p>
 
-<p>Please see my website for additional details and my <a href="https://www.mikejakuszewski">portfolio</a>!</p>
+<p>Please see my website for additional details and my <a href="https://www.mikejakuszewski" target="_blank">portfolio</a>!</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
