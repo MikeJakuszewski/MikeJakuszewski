@@ -2,7 +2,7 @@
 
 <p align="center">
   <br/>
-  <a href="www.mikejakuszewski.com"  target="_blank"><img src="https://img.shields.io/badge/-Website-000?style=for-the-badge&logo=cachet#7ED3&logoColor=violet" alt="Website" title="Website" /></a>
+  <a href="https://mikejakuszewski.com/"  target="_blank"><img src="https://img.shields.io/badge/-Website-000?style=for-the-badge&logo=cachet#7ED3&logoColor=violet" alt="Website" title="Website" /></a>
   <a href="https://twitter.com/mikejakuszewski" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="mailto:michael_jakuszewski@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" title="Email" /></a>
@@ -21,13 +21,13 @@
 
 <p>Feel free to visit my <a href="https://www.mikejakuszewski.com" target="_blank">website</a> for further information and to explore my <a href="https://mikejakuszewski.com/#portfolio" target="_blank">portfolio</a>!</p>
 
-- 🌱 I’m currently learning **Next.js** and **TypeScript**
+- 🌱 I’m currently learning **Next.js** and **TypeScript**.
 
 - 💻 Enjoying the process of building and developing unique full stack applications.
 
 - 📫 I can be reached at **michael_jakuszewski@hotmail.com** for any question you might have!
 
-- ⚡ Fun fact - **I enjoy to travel and explore in the beauty of nature** 🌳
+- ⚡ Fun fact - **I enjoy traveling and exploring the beauty of nature**. 🌳
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
